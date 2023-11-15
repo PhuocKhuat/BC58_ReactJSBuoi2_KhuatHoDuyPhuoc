@@ -36,3 +36,39 @@
     transform: rotate(360deg);
   }
 }
+
+.imgUrl{
+  position: relative;
+}
+
+.imgGirl1{
+  left: 300px;
+  position: absolute;
+  bottom: 0px;
+}
+.imgGirl2{
+  left: 900px;
+  position: absolute;
+  bottom: 0px;
+}
+
+.imgTable{
+  position: absolute;
+  bottom: 0px;
+}
+
+.imgGlasses{
+  width: 12%;
+  position: relative;
+  top: 440px;
+  padding: 15px;
+  cursor: pointer;
+}
+
+.v1Img{
+  position: absolute;
+  bottom: 0px;
+  left: 1000px;
+  top: 400px;
+  width: 12%;
+}
